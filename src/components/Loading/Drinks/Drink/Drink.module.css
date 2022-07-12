@@ -1,0 +1,24 @@
+.Drink {
+    margin: 16px;
+    margin-left: 0;
+    font-size: 14px;
+    display: flex;
+}
+
+.Image {
+    margin: 0;
+    width: 72px;
+}
+
+.Image img {
+    /* width: 100%; */
+    width: 72px;
+}
+
+.Description {
+    margin: 0 16px;
+}
+
+.Description h4 {
+    margin: 0;
+}
